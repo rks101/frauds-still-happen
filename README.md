@@ -28,9 +28,14 @@ Action Items for us:
 Due to upgrading to 3G / 4G / 5G services for telephony, one may require a new SIM card. Under SIM swap fraud, fraudsters get a new SIM card issued against one's registered mobile number (RMN) via the mobile service provider using a confirmation OTP sent on to RMN.    
 
 Action Items for us:   
-1. Change SIM only at authorized stores of service provider in your own presence.    
+1. Change SIM only at authorized stores of service providers in your own presence.    
 2. Opt for e-SIM if you can.
-3. If you notice any transaction, immediately report to the bank and telecom service provider.
+3. If you notice any suspicious transaction, immediately report it to the bank and telecom service provider.
 
+## Reporting    
 
+Banks:    
+These days banks call users if the transaction value exceeds 25,000 to confirm the user does the transaction. In case of suspicious transactions or possible fraud, please report immediately to your bank first.      
 
+Cyber Cell:    
+You can also lodge a complaint to the cyber cell in case of fraud through a digital platform or loss of items containing personal data or confidential documents.      
