@@ -1,11 +1,11 @@
 # frauds-still-happen
-Financial Fraud still happens around us. They can result in monetary loss and spoil the peace of mind. How do we detect and deal with such fraudulent issues in digital space?   
+Financial Fraud still happens around us. You may have come across news of such incidents. They can result in monetary loss and spoil the peace of mind. How do we detect and analyze such fraudulent issues in digital space?    
 
-## Email/message as Spam    
+## Emails/messages as Spam    
 
 _Email has been a honeypot for fraud for a fairly long time._ Fraud can start with a simple-looking [email message](https://github.com/rks101/frauds-still-happen/blob/main/aos_1.pdf) in your mailbox. See the uploaded files in this repository. This can be triggered on user messaging apps such as SMS, WhatsApp, Telegram, etc., usually with a link. Fraudsters can harvest emails and mobile numbers in bulk from several online/offline sources and spray messages with one of these attack vectors.    
 
-Be aware of such emails (see sample aos_1.pdf) promising quick gains, asking to confirm financial transactions or bank account details - including OTP/PIN and details printed on the cards. Financial fraud still happens through email or Spam. How do we deal with such issues?   
+Be aware of such emails (see sample aos_1.pdf) promising quick gains, asking to confirm financial transactions or bank account details - including OTP/PIN and details printed on the cards. Financial fraud still happens through email or Spam. How do we deal with such issues? Let us understand with attached sample aos_1.pdf   
 
 a) When you look carefully, see the mis-spellings (downlaod) and occasionally capitalized letters in the email/message text. Is it suspicious?   
 
