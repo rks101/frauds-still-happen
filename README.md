@@ -18,9 +18,9 @@ d) The sender's name (From name) can be any name in an email. Look at from where
 Action Items for us:   
 1. DO NOT CLICK suspicious links or download suspicious attachments from emails/user messaging apps.   
 2. Mark such emails or messages as Spam and delete them. On mobile, you can block unknown and unsubscribed senders spamming your device.    
-3. One should avoid shortcuts for money and alluring messages for quick monetary gains.   
-4. Know more about Spam [here]().
-5. Messages can be for medical assistance and medicine delivery; under the hood, one could be a mule for a drug racket.
+3. One should avoid shortcuts for money and alluring messages for quick monetary gains.    
+4. Know more about Spam [here](https://github.com/rks101/egnet#the-one-with-spf-dkim-and-dmark).    
+5. Messages can be for medical assistance and medicine delivery; under the hood, one could be a mule for a drug racket.    
 6. Messages can be for a lottery, a holiday package, or imposters for banking services.     
 
 ## SIM Swap   
