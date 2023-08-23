@@ -13,19 +13,19 @@ b) When you hover the cursor over "Downlaod All" or "View" link (DO NOT CLICK), 
 
 c) You can search "Vaishali Exports scammer" or check on the website aakashfinancial.com mentioned in the email at: https://sites.ipaddress.com/aakashfinancial.com.  Is it suspicious?    
 
-d) Sender's name (From name) can be any name in an email. Look at from where the email is coming (origin) and who has signed it. Notice mailed-by and signed-by fields in the email header by clicking on the triangle icon just below an email address.   
+d) The sender's name (From name) can be any name in an email. Look at from where the email is coming (origin) and who has signed it. Notice mailed-by and signed-by fields in the email header by clicking on the triangle icon just below an email address.   
 
 Action Items for us:   
 1. DO NOT CLICK suspicious links or download suspicious attachments from emails/user messaging apps.   
 2. Mark such emails or messages as Spam and delete them. On mobile, you can block unknown and unsubscribed senders spamming your device.    
-3. One should avoid shortcuts for money, alluring messages for quick monetary gains.   
+3. One should avoid shortcuts for money and alluring messages for quick monetary gains.   
 4. Know more about Spam [here]().
 5. Messages can be for medical assistance and medicine delivery; under the hood, one could be a mule for a drug racket.
 6. Messages can be for a lottery, a holiday package, or imposters for banking services.     
 
 ## SIM Swap   
 
-Due to upgrading to 3G / 4G / 5G services for telephony, one may require a new SIM card. Under SIM swap fraud, fraudsters get a new SIM card issued against one's registered mobile number (RMN) via the mobile service provider using a confirmation OTP sent on to RMN.    
+Due to upgrading to 3G / 4G / 5G services for telephony, one may require a new SIM card. Under SIM swap fraud, fraudsters get a new SIM card issued against one's registered mobile number (RMN) via the mobile service provider using a confirmation OTP sent to RMN.    
 
 Action Items for us:   
 1. Change SIM only at authorized stores of service providers in your own presence.    
@@ -34,8 +34,6 @@ Action Items for us:
 
 ## Reporting    
 
-Banks:    
-These days banks call users if the transaction value exceeds 25,000 to confirm the user does the transaction. In case of suspicious transactions or possible fraud, please report immediately to your bank first.      
+Banks: These days, banks call users if the transaction value exceeds 25,000 to confirm the user does the transaction. In case of suspicious transactions or possible fraud, please report immediately to your bank first.      
 
-Cyber Cell:    
-You can also lodge a complaint to the cyber cell in case of fraud through a digital platform or loss of items containing personal data or confidential documents.      
+Cyber Cell: You can also lodge a complaint to the [cyber cell](https://cybervolunteer.mha.gov.in/) in case of fraud through a digital platform or loss of items containing personal data or confidential documents.      
